@@ -114,7 +114,7 @@
     "email": "zara.ahmed@example.com",
     "days_since_contact": 6,
     "status": "On Track",
-    "tags": ["FRIEND", "TRAVEL"],
+    "tags": ["FRIEND", "TRAVEL"], 
     "bio": "Travel buddy. Loves exploring new places.",
     "goal": 10,
     "next_due_date": "2025-07-24"
