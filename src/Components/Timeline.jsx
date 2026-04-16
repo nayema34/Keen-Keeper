@@ -51,9 +51,9 @@ const Timeline = () => {
                             ${filter === f ? filterStyles[f].active : filterStyles[f].inactive}`}
                     >
                         {f === "All" && "All"}
-                        {f === "Call" && "📞 Call"}
-                        {f === "Text" && "💬 Text"}
-                        {f === "Video" && "🎥 Video"}
+                        {f === "Call" && "Call"}
+                        {f === "Text" && "Text"}
+                        {f === "Video" && "Video"}
                     </button>
                 ))}
             </div>
