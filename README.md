@@ -1,16 +1,26 @@
-# React + Vite
+🤝 KeenKeeper
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal space to manage and strengthen your important relationships. Keep track, stay connected, and make every interaction count.
 
-Currently, two official plugins are available:
+KeenKeeper is designed to help you stay mindful about your friendships by monitoring how often you connect — so the people who matter never fade into the background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+📖 Overview
 
-## React Compiler
+It’s easy to lose touch with people in a busy life. KeenKeeper acts as a simple relationship tracker that records your interactions like calls, messages, and video chats. It gives you a clear overview of your communication habits — helping you stay consistent and intentional with your connections.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+✨ Key Features
 
-## Expanding the ESLint configuration
+📋 Activity Timeline — View a complete history of your interactions in a clean chronological order
+🔍 Smart Filtering — Quickly sort interactions by Call, Message, or Video
+📊 Connection Insights — Visual donut chart to understand your communication patterns
+🧠 Browser Storage — Data is stored locally, no sign-up or backend required
+📱 Fully Responsive — Smooth experience across mobile and desktop devices
+🎨 Minimal Interface — Clean design focused on usability and clarity
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+React — For building the user interface
+Vite — Fast development and build tool
+Tailwind CSS — Utility-based styling framework
+react-minimal-pie-chart — For visual analytics
+react-icons — Icon library for UI elements
+localStorage — Handles client-side data storage
